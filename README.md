@@ -1,27 +1,66 @@
-# AngularJwt
+[TYPESCRIPT__BADGE]: https://img.shields.io/badge/typescript-D4FAFF?style=for-the-badge&logo=typescript
+[ANGULAR__BADGE]: https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular
+[JWT__BADGE]: https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jwt
+[PROJECT__BADGE]: https://img.shields.io/badge/📱Visit_this_project-000?style=for-the-badge&logo=project
+[PROJECT__URL]: https://github.com/Fernanda-Kipper/Readme-Templates
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.6.
+<h1 align="center" style="font-weight: bold;">Angular JWT 💻</h1>
 
-## Development server
+![angular][ANGULAR__BADGE]
+![typescript][TYPESCRIPT__BADGE]
+![JWT][JWT__BADGE]
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+<p align="center">
+ <a href="#about">About</a> • 
+ <a href="#started">Getting Started</a> • 
+  <a href="#colab">Collaborators</a>
+</p>
 
-## Code scaffolding
+<h2 id="started">📌 About</h2>
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+A simple project to put into practice my learning about how to use JWT on the Frontend with Angular. And I used a third-party API to make the requests, it is available at the following link: <a href="https://freeapi.miniprojectideas.com/index.html">API</a>
 
-## Build
+[![project][PROJECT__BADGE]][PROJECT__URL]
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+<h2 id="started">🚀 Getting started</h2>
 
-## Running unit tests
+<h3>Prerequisites</h3>
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Here you list all prerequisites necessary for running your project. For example:
 
-## Running end-to-end tests
+- [NodeJS](https://nodejs.org/en/download)
+- [Git](https://git-scm.com/)
+- [Angular](https://angular.io/)
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+<h3>Cloning</h3>
 
-## Further help
+How to clone your project
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+```bash
+git clone https://github.com/luccasocastro/angular-jwt.git
+```
+
+<h3>Starting</h3>
+
+How to start your project
+
+```bash
+cd angular-jwt
+npm install
+ng serve
+```
+
+<h2 id="colab">🤝 Collaborators</h2>
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars.githubusercontent.com/u/83096803?v=4" width="100px;" alt="Luccas Souza Profile Picture"/><br>
+        <sub>
+          <b>Luccas Souza</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
