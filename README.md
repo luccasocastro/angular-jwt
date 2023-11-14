@@ -2,7 +2,7 @@
 [ANGULAR__BADGE]: https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular
 [JWT__BADGE]: https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jwt
 [PROJECT__BADGE]: https://img.shields.io/badge/📱Visit_this_project-000?style=for-the-badge&logo=project
-[PROJECT__URL]: https://github.com/Fernanda-Kipper/Readme-Templates
+[PROJECT__URL]: https://github.com/luccasocastro/angular-jwt
 
 <h1 align="center" style="font-weight: bold;">Angular JWT 💻</h1>
 
